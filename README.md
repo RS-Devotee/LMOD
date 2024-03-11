@@ -1,4 +1,4 @@
-# LMOD: A Large-scale and Multiclass Object Detection Dataset for Satellite Videos
+# LMOD:A Large-scale and Multiclass Object Detection Dataset for Satellite Videos
 This is the official website of the **LMOD** dataset.
 ## Getting the dataset
 :star: The dataset application is very simple and requires only the following two steps:  
