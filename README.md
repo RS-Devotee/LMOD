@@ -2,8 +2,8 @@
 This is the official website of the **LMOD** dataset.
 ## Getting the dataset
 :star: The dataset application is very simple and requires only the following two steps:  
-- [x] Please fill in this application form.
-- [x] Please send your completed application form to this E-mail address.  
+- [x] Please fill in this [application form](Application form/Data Application for LMOD.docx).
+- [x] Please send your completed application form to this E-mail address:`rs_devotee@163.com`.  
 When we receive your application, we will reply as soon as possible, thank you for your support!
 ## Introduction
 * The LMOD dataset is the first satellite video multi-object detection dataset with both **large-scale and multiclass labeling features**. LMOD consists of eight sequences from seven videos.  
@@ -16,4 +16,4 @@ When we receive your application, we will reply as soon as possible, thank you f
 ## Data Source
 - Satellite videos used in LMOD are collected from [JiLin-1](https://www.jl1mall.com/) satellite constellation.
 ## Contact
-:mailbox: If you have any questions, please contact 
+:mailbox: If you have any questions, please contact rs_devotee@163.com.
