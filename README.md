@@ -2,7 +2,7 @@
 This is the official website of the **LMOD** dataset.
 ## Getting the dataset
 :star: The dataset application is very simple and requires only the following two steps:  
-- [x] Please fill in this [application form](/Application form).
+- [x] Please fill in this [application form](./Application form).
 - [x] Please send your completed application form to this E-mail address:`rs_devotee@163.com`.  
 When we receive your application, we will reply as soon as possible, thank you for your support!
 ## Introduction
