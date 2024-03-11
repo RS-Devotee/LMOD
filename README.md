@@ -1,6 +1,10 @@
 # LMOD:A Large-scale and Multiclass Object Detection Dataset for Satellite Videos
 This is the official website of the **LMOD** dataset.
 ## Getting the dataset
+* The dataset application is very simple and requires only the following two steps:  
+- [x] Please fill in this application form.
+- [x] Please send your completed application form to this E-mail address.
+When we receive the application, we will reply at the first time, thank you for your support!
 ## Introduction
 * The LMOD dataset is the first satellite video multi-object detection dataset with both **large-scale and multiclass labeling features**. LMOD consists of eight sequences from seven videos.  
 - LOMD has a wide range of annotation, the smallest image width is **1500×1160**, and the largest image width is **4000×2000**. The large range of scenes can better simulate the effect of object detection methods used in real scenes, but at the same time, it brings more challenges for object detection.  
