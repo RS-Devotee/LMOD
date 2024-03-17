@@ -17,5 +17,5 @@ When we receive your application, we will reply as soon as possible. Thank you f
 - Satellite videos used in LMOD are collected from [JiLin-1](https://www.jl1mall.com/) satellite constellation.
 ## Contact
 :mailbox: If you have any questions, please contact `rs_devotee@163.com`.
-## Tips:sun_with_face:  
+## Tips :sun_with_face:  
 If you want to use multi-object detection and tracking or single-object tracking dataset labeled with the OBB (Oriented Bounding Box) method which has orientation information, you can try to use the [OODT dataset](https://github.com/RS-Devotee/OODT) that we have published before.
