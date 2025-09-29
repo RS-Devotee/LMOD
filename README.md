@@ -19,3 +19,17 @@ When we receive your application, we will reply as soon as possible. Thank you f
 :mailbox: If you have any questions, please contact `rs_devotee@163.com`.
 ## Tips :sun_with_face:  
 If you want to use **multi-object detection and tracking or single-object tracking dataset** labeled with the **OBB (Oriented Bounding Box)** method which has orientation information, you can try to use the [OODT dataset](https://github.com/RS-Devotee/OODT) that we have published before.
+## Citation
+If our work is helpful to your research, please consider citing it. We appreciate your support！
+'''
+@ARTICLE{11142571,
+  author={Zhang, Yuwei and Tang, Yuqi and Liu, Fengqing and Chen, Yuzeng and Han, Te},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={Structural Consistency Based Multiobject Detection for Satellite Video and Benchmark With Real Scene Simulation Dataset}, 
+  year={2025},
+  volume={18},
+  number={},
+  pages={23728-23743},
+  keywords={Videos;Satellites;Object detection;Automobiles;Interference;Labeling;Feature extraction;Lighting;Accuracy;Technological innovation;Large range;moving object detection;satellite video;structural consistency model},
+  doi={10.1109/JSTARS.2025.3603130}}
+'''
