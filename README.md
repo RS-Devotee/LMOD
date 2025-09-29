@@ -21,7 +21,7 @@ When we receive your application, we will reply as soon as possible. Thank you f
 If you want to use **multi-object detection and tracking or single-object tracking dataset** labeled with the **OBB (Oriented Bounding Box)** method which has orientation information, you can try to use the [OODT dataset](https://github.com/RS-Devotee/OODT) that we have published before.
 ## Citation
 If our work is helpful to your research, please consider citing it. We appreciate your support！
-'''
+```
 @ARTICLE{11142571,
   author={Zhang, Yuwei and Tang, Yuqi and Liu, Fengqing and Chen, Yuzeng and Han, Te},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
@@ -32,4 +32,4 @@ If our work is helpful to your research, please consider citing it. We appreciat
   pages={23728-23743},
   keywords={Videos;Satellites;Object detection;Automobiles;Interference;Labeling;Feature extraction;Lighting;Accuracy;Technological innovation;Large range;moving object detection;satellite video;structural consistency model},
   doi={10.1109/JSTARS.2025.3603130}}
-'''
+```
