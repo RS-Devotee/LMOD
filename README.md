@@ -30,6 +30,5 @@ If our work is helpful to your research, please consider citing it. We appreciat
   volume={18},
   number={},
   pages={23728-23743},
-  keywords={Videos;Satellites;Object detection;Automobiles;Interference;Labeling;Feature extraction;Lighting;Accuracy;Technological innovation;Large range;moving object detection;satellite video;structural consistency model},
   doi={10.1109/JSTARS.2025.3603130}}
 ```
